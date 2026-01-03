@@ -1,1 +1,4 @@
 # Clustering_Jerarquico
+En este codigo se realiza Clustering Jerárquico para organizar las ciudades de Coahuila en grupos según el parecido de sus temperaturas durante la semana. Primero cargamos los datos del archivo ClimaCoahuila.csv y luego aplicamos el algoritmo de vinculación para medir qué ciudades tienen climas similares. Para visualizarlo, generamos un dendrograma, que es esa gráfica en forma de árbol que nos muestra cómo se van conectando las ciudades entre sí. Finalmente, hacemos un corte a una altura determinada para asignar a cada ciudad un grupo específico, guardando este resultado en una nueva columna de nuestra tabla para identificar fácilmente qué regiones comparten el mismo comportamiento climático.
+
+<img width="1249" height="725" alt="image" src="https://github.com/user-attachments/assets/e029a5f9-40cb-4a01-b261-4590819b5b87" />
